@@ -1,1 +1,2 @@
-OK, so I'm now adding something to the edit-me.txt file.
+#OK, so I'm now adding something to the edit-me.txt file.
+print "Hello !"
